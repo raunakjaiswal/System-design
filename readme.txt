@@ -74,5 +74,12 @@ provides a way to access eleemnt of a collection sequentially without exposing t
 underlying representation of the collection.
 
 * State Design Pattern  - (BDP)
+
 When an object's behavior depends on its state, and it must change at runtime.
 When the number of states is fixed and behavior for each state is well-defined.
+
+* Bridge Design Pattern - (SDP)
+By using the Bridge pattern, we separate the class1 hierarchy from the class2 hierarchy,
+allowing both to evolve independently.
+Use When extending via inheritance would lead to too many subclasses.
+
