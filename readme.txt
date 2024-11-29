@@ -72,3 +72,7 @@ to be added without modifying the actual object.
 
 provides a way to access eleemnt of a collection sequentially without exposing the
 underlying representation of the collection.
+
+* State Design Pattern  - (BDP)
+When an object's behavior depends on its state, and it must change at runtime.
+When the number of states is fixed and behavior for each state is well-defined.
