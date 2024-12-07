@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LLD/Booking/Booking.iml" filepath="$PROJECT_DIR$/LLD/Booking/Booking.iml" />
       <module fileurl="file://$PROJECT_DIR$/LLD/LLD.iml" filepath="$PROJECT_DIR$/LLD/LLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multi-threading/Monitor-lock/Monitor-lock.iml" filepath="$PROJECT_DIR$/Multi-threading/Monitor-lock/Monitor-lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multi-threading/Multi-threading.iml" filepath="$PROJECT_DIR$/Multi-threading/Multi-threading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/LLD/Shopping/Shopping.iml" filepath="$PROJECT_DIR$/LLD/Shopping/Shopping.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
@@ -17,7 +19,9 @@
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/LLD/infiniteFeed/infiniteFeed.iml" filepath="$PROJECT_DIR$/LLD/infiniteFeed/infiniteFeed.iml" />
       <module fileurl="file://$PROJECT_DIR$/iterator/iterator.iml" filepath="$PROJECT_DIR$/iterator/iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multi-threading/print_odd_even_using_two_thread/print_odd_even_using_two_thread.iml" filepath="$PROJECT_DIR$/Multi-threading/print_odd_even_using_two_thread/print_odd_even_using_two_thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multi-threading/shared-resourse-synchronized/shared-resourse-synchronized.iml" filepath="$PROJECT_DIR$/Multi-threading/shared-resourse-synchronized/shared-resourse-synchronized.iml" />
       <module fileurl="file://$PROJECT_DIR$/state/state.iml" filepath="$PROJECT_DIR$/state/state.iml" />
       <module fileurl="file://$PROJECT_DIR$/strategy/strategy.iml" filepath="$PROJECT_DIR$/strategy/strategy.iml" />
     </modules>
