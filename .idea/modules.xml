@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/LLD/infiniteFeed/infiniteFeed.iml" filepath="$PROJECT_DIR$/LLD/infiniteFeed/infiniteFeed.iml" />
       <module fileurl="file://$PROJECT_DIR$/iterator/iterator.iml" filepath="$PROJECT_DIR$/iterator/iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multi-threading/multithreadtask/multithreadtask.iml" filepath="$PROJECT_DIR$/Multi-threading/multithreadtask/multithreadtask.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multi-threading/print_odd_even_using_two_thread/print_odd_even_using_two_thread.iml" filepath="$PROJECT_DIR$/Multi-threading/print_odd_even_using_two_thread/print_odd_even_using_two_thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multi-threading/shared-resourse-synchronized/shared-resourse-synchronized.iml" filepath="$PROJECT_DIR$/Multi-threading/shared-resourse-synchronized/shared-resourse-synchronized.iml" />
